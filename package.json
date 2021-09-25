@@ -1,9 +1,9 @@
 {
-  "name": "connect-session-sequelize",
-  "version": "7.1.2",
-  "description": "Session store for connect-session using sequelize",
-  "homepage": "https://github.com/mweibel/connect-session-sequelize",
-  "bugs": "https://github.com/mweibel/connect-session-sequelize/issues",
+  "name": "connect-session-sequelize-typescript",
+  "version": "1.0.0",
+  "description": "Session store for connect-session using sequelize-typescript",
+  "homepage": "https://github.com/Leonidas51/connect-session-sequelize",
+  "bugs": "https://github.com/Leonidas51/connect-session-sequelize/issues",
   "main": "index.js",
   "scripts": {
     "test": "mocha ./test",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mweibel/connect-session-sequelize.git"
+    "url": "https://github.com/Leonidas51/connect-session-sequelize"
   },
   "dependencies": {
     "debug": "^4.1.1",
@@ -38,7 +38,7 @@
     "mysql",
     "sqlite"
   ],
-  "author": "Michael Weibel <michael.weibel@gmail.com> (https://github.com/mweibel)",
+  "author": "Leonid Staynov <elstaino1@gmail.com> (https://github.com/Leonidas51)",
   "license": "MIT",
   "files": [
     "lib",
